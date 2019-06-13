@@ -1,2 +1,2 @@
-# 12-PLOTLY_CME
+# 12-DataVis_CME
 Belly Button Biodiversity Dashboard
